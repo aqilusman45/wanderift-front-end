@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Karla-Regular';
+  src: url('../fonts/Karla-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Karla-Bold';
+  src: url('../fonts/Karla-Bold.ttf');
+}
+
+
+@font-face {
+  font-family: 'Karla-Bold-Italic';
+  src: url('../fonts/Karla-BoldItalic.ttf');
+}
+
+
+@font-face {
+  font-family: 'Karla-Regular-Italic';
+  src: url('../fonts/Karla-RegularItalic.ttf');
+}
+
+
+body {
+  font-family: 'Karla-Regular', sans-serif;
+}
+
+
+.form {
+  border: 1px solid #eaecf2;
+  display: inline-block;
+  padding: 50px;
+  box-shadow: 5px 3px 9px #c5c7cc;
+}
+
+.label-text {
+  padding: 13px 0px;
+  color: #131f40;
+}
